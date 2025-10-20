@@ -1,0 +1,13 @@
+# Arquivos compilados
+bin/
+*.class
+*.jar
+
+# Configurações de IDE
+.vscode/
+.idea/
+*.tmp
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
